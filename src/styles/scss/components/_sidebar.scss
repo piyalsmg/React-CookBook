@@ -1,0 +1,14 @@
+.sidebar {
+  height: 90%;
+  width: 350px;
+  border-right: 1px solid $color-shadow;
+  margin: 50px 0px;
+  padding-left: 30px;
+
+  & title {
+    color: $color-main;
+    font-size: 3em;
+    font-weight: bold;
+    margin: 0;
+  }
+}
